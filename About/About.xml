@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ModMetaData>
+  <name>Lulu's Drop All</name>
+  <author>LoonyLadle</author>
+  <url>https://github.com/LoonyLadle/LuluDropAll</url>
+  <description>Adds a "drop all" command to colonists and pack animals.</description>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+</ModMetaData>

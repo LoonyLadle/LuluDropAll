@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<ModSyncNinjaData>
+  <ID>8bd6b2c1-06ac-4cf1-93bd-a09b12cf00bf</ID>
+  <ModName>Lulu's Drop All</ModName>
+  <Version>1.0.0</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>LoonyLadle</Owner>
+    <Project>LuluDropAll</Project>
+    <AboutDir>About</AboutDir>
+    <DownloadFrom>ModSyncReleases</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
