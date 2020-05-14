@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <Manifest>
-    <identifier>LuluDropAll</identifier>
-    <version>1.0.0</version>
-    <dependencies />
-    <incompatibleWith />
-    <loadBefore />
-    <loadAfter />
-    <suggests />
-    <showCrossPromotions>false</showCrossPromotions>
-    <manifestUri>https://raw.githubusercontent.com/LoonyLadle/LuluDropAll/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/LoonyLadle/LuluDropAll/releases/latest</downloadUri>
+	<identifier>LuluDropAll</identifier>
+	<version>1.1.0</version>
+	<dependencies />
+	<incompatibleWith />
+	<loadBefore />
+	<loadAfter />
+	<suggests />
+	<showCrossPromotions>false</showCrossPromotions>
+	<manifestUri>https://raw.githubusercontent.com/LoonyLadle/LuluDropAll/master/About/Manifest.xml</manifestUri>
+	<downloadUri>https://github.com/LoonyLadle/LuluDropAll/releases/latest</downloadUri>
 </Manifest>
